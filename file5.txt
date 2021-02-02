@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 muokattu lokaalisti BR5ssa
+=======
+luotu BR5:ssä lokaalisti
+muokattu githubissa
+>>>>>>> refs/remotes/origin/BR-5
