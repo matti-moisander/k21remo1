@@ -1,2 +1,1 @@
-luotu lokaalisti
-muokattu github UI:ssa
+muokattu lokaalisti pullin jalkeen
